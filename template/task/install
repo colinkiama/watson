@@ -31,7 +31,8 @@
 #
 ######################################################################
 
-set -eu -o pipefail
+# TODO: Sort out error handling logic
+# set -eu -o pipefail
 
 # Ask to install the elementary OS development libraries
 # if they don’t already exist on your machine.
